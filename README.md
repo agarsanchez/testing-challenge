@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Hands on Testing... No Testing, Designing!!!
+## what is/is not tdd or bdd
+  * software designed by tests, no tests designed by the software
+  * bdd or tdd?
+
+## Understanding the requirements
+
+## Defining the software by a test
+  * mapping the requirements
+  * Can I understand what happens without reading the code? (the testing code)
+  * unit testing a class
+  * consuming something? create a contract with an interface
+
+## The levels of testing
+  * where to start
+  * when to stop
